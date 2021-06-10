@@ -22,7 +22,7 @@ To assess a developer's skills in terms of developing iOS apps and decision-maki
         - Address
         - Contact person
         - Contact person's phone number
-- Send an email once done to lowiegie.oblenida@upraxis.com
+- Send an email once done to lowiegie.oblenida@upraxis.com, hr@upraxis.com
 
 Any libraries or tools of the developer's choosing may be used.
 
